@@ -19,10 +19,9 @@ body{
 }
 
 .carousel-item{
-    height: 80vh;
+    height: 70vh;
 }
 .carousel-item img{
-    height: 800px;
     width: 400px;
 }
 
